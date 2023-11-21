@@ -1,0 +1,2 @@
+C:\Users\evan_\Desktop\React Projects\Digital-Bussiness-Card\obj\Debug\digital-bussiness-card.esproj.SuggestedBindingRedirects.cache
+C:\Users\evan_\Desktop\React Projects\Digital-Bussiness-Card\obj\Debug\digital-bussiness-card.esproj.CoreCompileInputs.cache
